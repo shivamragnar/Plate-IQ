@@ -1,0 +1,876 @@
+@media(max-width: 767px){
+	.for-big-devices{
+		display: none;
+	}
+	.navbar-brand img {
+
+		height: 3rem;
+		width: 13rem;
+	}
+	.main-header {
+
+		padding-right: 0rem !important;
+		padding-left: 1.0rem !important;
+		padding-top: 0rem !important;
+		padding-bottom: 0rem !important;
+	
+	}
+	/*****************************************top******************************************************/
+	
+	   
+	  
+	   .loging-btn {
+
+		padding: 0.8rem 1.5rem;
+		font-size: 1.2rem;
+	   }
+	   .get-demo {
+
+		font-size: 1.2rem;
+		padding: 0.8rem 1.5rem;
+	   }
+	   .navbar-header{
+		   display: inline-block;
+	   }
+	   .navbar-nav > li{
+		   display: inline-block;
+	   }
+	   .navbar-right{
+		   display: inline-block;
+		   margin-right: 0.2rem;
+		   float: right;
+	   }
+	   .first-left-section {
+			padding: 8rem 1.0rem 5.0rem 3.8rem !important;
+		}
+       .navbar-brand{
+		   margin-left: 0.5rem;
+	   }
+	   .first-left-section p{
+		   font-size: 1.0rem;
+	   }
+	   .next-line{
+		   
+	   }
+	   .first-left-section h3{
+		   display: inline;
+		   font-size: 2.2rem;
+	   }
+	   .first-left-section h1{
+		   font-size: 3.5rem;
+	   }
+	   .first-right-section {
+
+		padding: 5.0rem 1.2rem 0rem 2.2rem;
+	
+	}
+	.second-left-section h3{
+		font-size: 1.5rem;
+	}
+	.second-left-section h1{
+		font-size: 3.5rem;
+	}
+	.second-left-section {
+		padding: 4rem 1rem 5rem 3.8rem !important;
+	}
+	.second-left-section h5 {
+
+		padding-top: 3.5rem;
+	
+	}
+	.second-left-section b {
+
+		font-size: 1.0rem;
+	
+	}
+	.third-section-container h1{
+		font-size: 3.5rem;
+	}
+	.third-section-item-description {
+
+		padding-left: 2.3rem;
+	
+	}
+	.third-section-container h3{
+		font-size: 2.0rem;
+		padding-left: 2.0rem;
+	}
+	.third-section-item-text h3{
+		font-size: 1.8rem;
+	}
+	.fourth-right-section h1, .fifth-upper-section h1{
+		font-size: 3.5rem;
+
+	}
+	.fourth-right-section h4{
+		font-size: 1.8rem;
+	}
+	.fourth-right-section b{
+		font-size: 1.2rem;
+	}
+	.fifth-section {
+
+		margin-left: 0.00%;
+	
+	}
+	.fifth-lower-section {
+
+		padding: 4rem 0rem 3rem 0rem;
+	
+	}
+	.copyright{
+		padding-bottom:8rem;
+		font-size: 1.0rem;
+	}
+	.links {
+
+		margin-top: 0.5rem;
+		padding: 0.9rem 3.8rem 0rem 0rem;
+	
+	}
+	.footer-section a{
+		font-size: 1.2rem;
+	}
+	.navbar-fixed-bottom{
+		box-shadow: 0rem 0rem 1rem 0rem rgba(202,226,254, 0.3);
+	}
+	.fourth-section-container{
+		background: none;
+	}
+
+   
+
+	   
+	   
+	/*****************************************bottom***************************************************/
+	.center-content {
+		display: flex;
+		justify-content: center;
+		flex-wrap: wrap;
+		height: 4.5rem;
+	}
+	.center-content > li > a{
+		font-size: 1.2rem;
+		padding-top: 1.5rem;
+
+	}
+	.bottom-div{
+		padding-left: 0rem !important;
+	}
+	
+}
+/*****************************************************small devices****************************************/
+
+@media (min-width:320px) and (max-width: 420px){
+	.navbar-brand img {
+
+		height: 3rem;
+		width: 12rem;
+	
+	}
+	.loging-btn {
+
+		padding: 0.8rem 1.0rem;
+		font-size: 1.0rem;
+	
+	}
+	.get-demo {
+
+		font-size: 1.0rem;
+		padding: 0.8rem 1.0rem;
+	
+	}
+	.navbar-header{
+		padding: 0.5rem;
+	}
+	.first-left-section h1, .second-left-section h1 {
+
+		font-size: 2.5rem;
+	
+	}
+	.first-left-section p {
+
+		font-size: 0.8rem;
+	
+	}
+	.first-left-section h3{
+		font-size: 1.7rem;
+	}
+	.get-demo-btn{
+		padding: 1.2rem 2.0rem;
+	}
+	.first-left-section{
+		padding-left: 3.0rem !important;
+	}
+	.second-left-section h3 {
+
+		font-size: 1.0rem;
+		padding-right: 2.7rem;
+	
+	}
+	.third-section-container h1 {
+
+		font-size: 2.5rem;
+	
+	}
+	.third-section-item-text h3 {
+
+		font-size: 1.2rem;
+	
+	}
+	.third-section-container h3 {
+
+		font-size: 1.3rem;
+		padding-left: 2.0rem;
+	
+	}
+	.fourth-right-section h1, .fifth-upper-section h1 {
+
+		font-size: 2.5rem;
+	
+	}
+	.fourth-right-section h4 {
+
+		font-size: 1.2rem;
+	
+	}
+	.fourth-section-container h4{
+		padding-right: 1rem !important;
+	}
+	.fifth-upper-section b {
+
+		padding-bottom: 0.3rem;
+		font-size: 1.0rem;
+		color: #1a75ff;
+		border-bottom: 0.1rem solid #1a75ff;
+	
+	}
+	.fourth-right-section b {
+
+		padding-bottom: 0.3rem;
+		font-size: 1.0rem;
+		color: #1a75ff;
+		border-bottom: 0.1rem solid #1a75ff;
+
+	
+	}
+}
+
+
+
+
+
+/*******************************for tablets**********************************/
+
+
+
+
+@media (min-width: 768px) and (max-width: 1023px){
+	.for-small-devices{
+		display: none;
+	}
+	.navbar-left {
+    	margin-left: 2.1rem !important;
+    	padding-top: 0.6rem;
+    	height: 6.0rem;
+	}
+	.navbar-nav > li {
+        padding: 0.0rem 0.2rem !important;
+    }
+	.nav > li > a {
+    	position: relative;
+    	display: block;
+    	padding: 1.0rem 1.0rem;
+    }
+	.navbar-nav a {
+    	padding: 0.6rem 0.1rem;
+    	font-size: 1.4rem;
+    	font-weight: 500;
+	}
+	.navbar-nav > li > a {
+    	font-size: 1.3rem;
+    	padding-top: 1.2rem;
+    }
+	.main-header {
+	    padding-left: 4.4rem !important;
+	    padding-right: 3.0rem !important;
+	}
+	.navbar-right {
+	    margin-right: 0rem !important; 
+	}
+	nav .container-fluid {
+		padding-right: 0 !important;
+	    padding-left: 0 !important;
+	}
+	.navbar-brand img {
+    	height: 2.8rem;
+    	width: 11.3rem;
+	}
+    .navbar-brand {
+    	padding-right: 0.6rem !important;
+	}
+	.main-header {
+    	padding-right: 3.0rem !important;
+    	padding-left: 6.0rem !important;
+    }
+	
+	.navbar-brand {
+    	margin-left: -3.6rem;
+	}
+	.loging-btn {
+    	padding: 0.8rem 2.4rem;
+    	font-size: 1.2rem;
+    }
+    .get-demo {
+    	font-size: 1.2rem;
+    	padding: 0.8rem 1.5rem;
+	}
+	.loging-btn a, .get-demo a{
+		font-size: 1.2rem;
+    }
+    
+	/**********************************************first section*******************************************/
+	.first-left-section {
+    	padding: 80px 10px 50px 64px !important;
+	}
+	.first-right-section {
+        padding: 16px 0px 0px 0px;
+	}
+	.first-left-section p {
+    	color: #1976fb;
+    	font-size: 1rem;
+    	font-weight: 500;
+	}
+	.first-left-section h1 {
+    	font-size: 2.8rem;
+    	font-weight: 500rem;
+    }
+    .first-left-section h3 {
+    	color: #686869;
+    	font-size: 1.3rem;
+	}
+	.first-section {
+    	margin-top: 87px;
+	}
+	.first-left-section-btn {
+    	margin-top: 23px;
+	}
+	.get-demo-btn{
+		font-size: 1.3rem;
+		padding: 1.0rem 1.2rem;
+	}
+	.first-left-section-btn input {
+
+		height: 4.0rem;
+	}
+
+	
+	/*************************************************second section*******************************************/
+	.second-left-section {
+    	padding: 40px 10px 50px 100px !important;
+	}
+	.second-left-section h1 {
+    	font-size: 2.5rem;
+	}
+	.second-section {
+    	padding: 0;
+    	margin-top: 21px;
+    }
+    .second-left-section h4 {
+    	color: #686869;
+    	padding-top: 16px;
+    	font-size: 13px;
+	}
+	
+	.second-left-section h3{
+		padding-top: 0.2rem !important;
+		font-size: 1.1rem !important;
+		margin-top: 0px !important;
+	}
+	.second-left-section b {
+
+		padding-bottom: 0.5rem;
+		font-size: 0.8rem;
+		color: #1a75ff;
+		border-bottom: 0.1rem solid #1a75ff;
+	
+	}
+	.second-left-section h5{
+		padding-top: 1.0rem;
+	}
+	/****************************************************third section*****************************************/
+   
+   .third-section-container h1 {
+    	color: #1976fb;
+    	font-size: 3rem;
+    }
+   .third-section-container h4 {
+    	color: #1976fb;
+    	font-size: 13px;
+    	padding: 17px 37px;
+    	font-weight: bold;
+    }
+    .third-section-item-text h3{
+    	color: #686869 !important;
+    	font-size: 1.1rem !important;
+		font-weight: normal;
+		padding-top: 0rem !important;
+	}
+	.third-section-container {
+
+		margin-top: 5rem;
+	
+	}
+	.third-section {
+
+		padding: 4rem 1.0rem 5rem 3.6rem;
+	
+	}
+	.third-section-container h3 {
+
+		color: #1976fb;
+		font-size: 1.2rem;
+		padding: 0.8rem 0.5rem;
+		font-weight: 500;
+		margin-top: unset;
+		margin-bottom: unset;
+	
+	}
+	
+	/****************************************************fourth section**************************************/
+    .fourth-section-container h1 {
+    	color: #1976fb;
+    	font-size: 3.0rem;
+    }
+    .fourth-right-section {
+    	margin-top: 58px;
+    }
+   .fourth-section-container h4 {
+		padding: 1rem 9rem 0rem 0rem !important;
+	} 
+	.fourth-right-section h5{
+		padding-top: 0.2rem;
+		
+		color: #1a75ff;
+	}
+	
+	.fourth-left-section{
+		padding-left: 50px;
+	}
+	.fourth-section-container {
+
+		margin-top: 2.0rem;
+		background-position-y: 84%;
+		background-size: 18% 30%;
+	
+	}
+	.fourth-right-section h4{
+		font-size: 1.1rem;
+	}
+	.fourth-right-section b{
+		padding-bottom: 0.5rem;
+		font-size: 0.8rem;
+		color: #1a75ff;
+		border-bottom: 0.1rem solid #1a75ff;
+	}
+	.fourth-section img{
+		padding-left: 1.0rem;
+	}
+	
+	/******************************************fifth section*****************************************/
+	.fifth-section-line h5{
+		padding-top: 22px;
+		font-size: 12px;
+		color: #1a75ff;
+	}
+   	.fifth-upper-section {
+		padding: 65px 0px 0px 28px;
+	}
+	.fifth-section-container {
+		margin-top: 96px;
+	}
+	.fifth-upper-section h1{
+		font-size: 2.8rem;
+	}
+	.fifth-upper-section b{
+		padding-bottom: 0.5rem;
+		font-size: 1.0rem;
+		color: #1a75ff;
+		border-bottom: 0.1rem solid #1a75ff;
+
+	}
+	.fifth-upper-section h5 {
+		padding-top: 0.2rem;
+	
+	}
+	.fifth-lower-section {
+
+		padding: 2rem 0rem 7.0rem 1rem;
+	
+	}
+	.fifth-lower-section .lower-img{
+		padding-top:2.0rem;
+
+	}
+	
+
+}
+
+@media (min-width: 900px) and (max-width: 1023px){
+
+	/*********************************navbar***************************************************/
+	.for-small-devices{
+		display: none;
+	}
+	.navbar-brand img {
+
+		height: 3.3rem;
+		width: 12.8rem;
+	
+	}
+	.navbar-left {
+
+		margin-left: 4rem !important;
+		padding-top: 1rem;
+		height: 5.0rem;
+	
+	}
+	.navbar-right{
+		padding-top:0.5rem;
+	}
+	.main-header{
+		padding-top: 0rem !important;
+		padding-bottom: 0rem !important;
+		margin-bottom: 0rem !important;
+	}
+	.second-left-section h3{
+		font-size: 1.3rem !important;
+	}
+	.second-left-section b{
+		font-size: 1rem;
+	}
+	.third-section-container h3{
+		font-size: 1.4rem !important;
+
+	}
+	.third-section-item-text h3{
+		font-size: 1.3rem !important;
+	}
+	.fourth-right-section h4{
+		font-size: 1.35rem;
+	}
+	.fourth-right-section b{
+		font-size: 1rem;
+	}
+}
+
+/*************************************************for low resolution*****************************************/
+@media (min-width: 1024px) and (max-width: 1229px) {					
+	
+	.for-small-devices{
+		display: none;
+	}
+	.main-header {
+		padding-right: 32px !important;
+		padding-left: 56px !important;	
+	}
+	.navbar-nav > li{
+    	padding: 0rem 0.3rem !important;
+	}
+	.navbar-brand img{
+    	height: 4.0rem;
+		width: 14.5rem;
+	}
+	.loging-btn a, .get-demo a{
+    	font-size: 15px !important;
+	}
+	.navbar-left{
+		margin-left: 1.5rem !important;
+	    padding: 0px;
+	    height: 60px;
+	}
+	.navbar-nav>li>a{
+		font-size: 1.7rem;
+		padding-top: 2.5rem;
+	}
+	.navbar-fixed-top {
+		top: 0;
+		}
+	.navbar-nav {
+		padding: 0.0rem !important;
+	}	
+
+	/**************************************************first section***************************************/
+	
+	.first-left-section{
+		padding: 133px 10px 50px 78px !important;
+	}
+	.first-left-section h3 {
+    color: #686869;
+    font-size: 1.8rem;
+	}
+	.first-left-section-btn {
+    margin-top: 40px;
+	}
+	.first-left-section p {
+    color: #1976fb;
+    font-size: 1.2rem;
+    font-weight: 500;
+	}
+	.first-left-section h1 {
+    font-size: 38px;
+    font-weight: 500;
+	}
+	.first-right-section{
+		padding: 50px 0px 0px 0px;
+	}
+	.get-demo-btn{
+		padding: 0.8rem 2.8rem;
+	}
+	.first-left-section-btn input{
+		height: 4.0rem;
+	}
+	/***********************************************second section***********************************************/
+	.second-left-section h1 {
+		font-size: 3.8rem;
+	}
+	.second-left-section h4 {
+    color: #686869;
+    padding-top: 16px;
+    font-size: 15px;
+	}
+	.second-left-section h5 {
+
+		padding-top: 3.5rem;
+	
+	}
+	
+	.second-left-section{
+		padding: 8rem 1rem 5rem 11.3rem !important;
+	}
+	.second-left-section h3{
+		padding-top: 0.5rem;
+		font-size: 1.5rem;
+	}
+	.second-left-section b{
+		padding-bottom: 0.3rem;
+   		font-size: 1.0rem;
+     	color: #1a75ff;
+    	border-bottom: 0.1rem solid #1a75ff;
+	}
+	/********************************************third section****************************************/
+	.third-section{
+		padding: 40px 10px 50px 60px;
+	}
+	.third-section-container h1 {
+		color: #1976fb;
+		font-size: 3.8rem;
+	}
+		.third-section-container h4 {
+		color: #1976fb;
+		font-size: 14px;
+		padding: 5px 28px;
+		font-weight: bold;
+	}
+	.third-section-item-text {
+		padding: 0px 34px;
+		font-size: 12px;
+		font-weight: normal;
+	}
+	.third-section-item-description {
+
+		padding-left: 2rem;
+	
+	}
+	.third-section-container h3 {
+
+		color: #1976fb;
+		font-size: 1.7rem;
+		padding: 1.2rem 0.8rem;
+		font-weight: 500;
+		margin-top: unset;
+		margin-bottom: unset;
+	
+
+	}
+	.third-section-item-text h3 {
+
+		padding: 0rem 0.5rem;
+		font-size: 1.5rem;
+		font-family: font116710;
+		font-weight: lighter !important;
+		color: #686869;
+		line-height: inherit;
+		margin-top: unset;
+	
+	}
+	.third-section-item-text {
+
+		padding: 0px 0.4rem;
+		font-size: 12px;
+		font-weight: normal;
+	
+	}
+/*****************************************************fourth section*********************************************/	
+   
+.fourth-section-container h1 {
+    color: #1976fb;
+    font-size: 3.8rem;
+}
+.fourth-right-section h4 {
+    padding-top: 19px;
+    padding-right:124px; 
+    font-size: 15px;
+}
+.fourth-right-section h5 {
+
+    padding-top: 1.5rem;
+
+}
+
+.fourth-left-section {
+    padding: 40px 34px 66px 31px;
+}
+.fourth-section-container {
+    background-image: url("images/fourth-section-bottom-image.png");
+    background-repeat: no-repeat;
+	background-position-x: 52%;
+	background-position-y: 92%;
+    background-size: 17% 32%;
+	}
+.fouth-section-bottom-image{
+		position: absolute;
+		margin:447px 529px 0px 580px;
+	}
+.fourth-right-section {
+
+		margin-top: 7.0rem;
+	
+	}
+.fourth-section-container h4{
+	padding: 1.5rem 10.0rem 0rem 0rem !important;
+	font-size: 1.6rem !important;
+}
+.fourth-right-section b {
+
+    padding-bottom: 0.3rem;
+    font-size: 1.1rem;
+    color: #1a75ff;
+    border-bottom: 0.1rem solid #1a75ff;
+
+}
+/*********************************************************fifth section***************************************/	
+	.fifth-section-line h5{
+		padding-top:24px;
+		font-size: 14px;
+	}
+	.fifth-lower-section{
+		padding: 40px 0px 97px 0px;
+	}
+	
+
+	.fifth-upper-section{
+		padding-left: 16px;
+	}
+	.fifth-upper-section h1{
+		font-size: 4.0rem;
+	}
+	.fifth-upper-section b {
+
+		padding-bottom: 0.8rem;
+		font-size: 1.3rem;
+		color: #1a75ff;
+		border-bottom: 0.1rem solid #1a75ff;
+	
+	}
+	.fifth-upper-section h5 {
+
+		padding-top: 1rem;
+	
+	}
+
+	
+}
+
+@media (min-width: 1230px) and (max-width: 1302px) {
+
+	.for-small-devices{
+		display: none;
+	}
+	.second-left-section h1{
+		font-size: 4.8rem;
+	}
+	.second-left-section h3{
+		font-size: 1.8rem;
+	}
+	.second-left-section b{
+		font-size: 1.3rem;
+	}
+	.third-section-container h3{
+		font-size: 2.0rem;
+	}
+	.third-section-item-text h3 {
+
+		padding: 0rem 2.0rem;
+		font-size: 1.8rem !important;
+	}
+	.fourth-section-container h1{
+		font-size: 4.0rem;
+
+	}	
+	.fourth-right-section h4{
+		font-size: 1.8rem;
+		padding: 2rem 15rem 0rem 0rem !important;
+	}
+	.fourth-right-section b {
+
+		padding-bottom: 0.6rem;
+		font-size: 1.2rem;
+		color: #1a75ff;
+		border-bottom: 0.1rem solid #1a75ff;
+	
+	}
+	.fourth-right-section h5 {
+
+		padding-top: 3.0rem;
+	
+	}
+	.fourth-section-container{
+		background-position-x: 50% !important;
+		background-position-y: 98% !important;
+		background-size: 16% 32% !important;
+	}
+	.fifth-upper-section h1{
+		font-size: 4.2rem;
+
+	}
+	.fifth-upper-section b {
+
+		padding-bottom: 0.3rem;
+		font-size: 1.3rem;
+		color: #1a75ff;
+		border-bottom: 0.18rem solid #1a75ff;
+	
+	}
+	.fifth-lower-section {
+
+		padding: 2rem 0rem 9.8rem 0rem;
+	
+	}
+
+}
+
+
+@media (max-width:480px) {
+	.links{
+		padding: 0rem 2.5rem 0rem 0rem;
+	}
+}
+
+@media (min-width:768px) {
+	.for-small-devices{
+		display: none;
+	}
+}
+
+
